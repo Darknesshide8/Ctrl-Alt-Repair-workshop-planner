@@ -1,1 +1,9 @@
-
+{
+  "resources": [],
+  "events": [],
+  "restrictions": {
+    "corequisite": [],
+    "exclusion": []
+  },
+  "pools": {}
+}
